@@ -6,7 +6,5 @@ public class GUI_PWMLED {
 
 		MyFrame_PWM mfpwm = new MyFrame_PWM();
 		mfpwm.setVisible(true);
-
 	}
-
 }
